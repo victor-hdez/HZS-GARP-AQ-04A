@@ -17,9 +17,9 @@ float lng,lat; //coordenada del gps
 File measurements;
 int ROWS = 1; //usada para llevar conteo de la cantd de mediciones hechas
 
-///////////////////////////////////////////////////
-//////VARIABLES:PARA:EL:CONTROL:DEL:PROGRAMA://////
-///////////////////////////////////////////////////
+//////////////////////////////////////////////////
+//////VARIABLES:PARA:EL:CONTROL:DEL:PROGRAMA://///
+//////////////////////////////////////////////////
 
 //PANTALLA OLED SH1106
 volatile int interruption_happen = 0; //variable modificada al lanzarse una interrupcion
